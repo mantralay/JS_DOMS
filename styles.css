@@ -7,7 +7,7 @@ html , body{
     height: 100%;
     display: flex;
     justify-content: center;    
-    align-items: start;
+    align-items: center;
     width: 100%;
 }
 .box{
@@ -16,26 +16,79 @@ html , body{
   height: 300px;
   width: 300px;
   border-radius: 9px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
 }
-.inner-box{
+.inner-box1{
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 1.6rem;
+  margin-top: 12px;
   background-color: wheat;
   border: 2px solid rgb(57, 209, 46);
   height: 30px;
   width: 100%;
-
 }
-.box-text{
+.inner-box2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.6rem;
+  margin-top: 12px;
+  background-color: wheat;
+  border: 2px solid rgb(57, 209, 46);
+  height: 30px;
+  width: 100%;
+}
+.inner-box3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.6rem;
+  margin-top: 12px;
+  background-color: wheat;
+  border: 2px solid rgb(57, 209, 46);
+  height: 30px;
+  width: 100%;
+}
+.inner-box4{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.6rem;
+  margin-top: 12px;
+  background-color: wheat;
+  border: 2px solid rgb(57, 209, 46);
+  height: 30px;
+  width: 100%;
+}
+.inner-box5{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.6rem;
+  margin-top: 12px;
+  background-color: wheat;
+  border: 2px solid rgb(57, 209, 46);
+  height: 30px;
+  width: 100%;
+}
+.inner-box6{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.6rem;
+  margin-top: 12px;
+  background-color: wheat;
+  border: 2px solid rgb(57, 209, 46);
+  height: 30px;
+  width: 100%;
+}
+.box_text{
   color: rgb(86, 17, 17);
   height: 0.5rem;
   height: 10px;
   width: auto;
-  
+  text-align: center;
+  font-size: 1.4rem;
 }
 
