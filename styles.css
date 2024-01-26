@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    display: flex;
+    justify-content: center;    
+    align-items: start;
+    width: 100%;
+}
+.box{
+  border: 2px solid gray;
+  background-color: lightblue;
+  height: 300px;
+  width: 300px;
+  border-radius: 9px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.inner-box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: wheat;
+  border: 2px solid rgb(57, 209, 46);
+  height: 30px;
+  width: 100%;
+
+}
+.box-text{
+  color: rgb(86, 17, 17);
+  height: 0.5rem;
+  height: 10px;
+  width: auto;
+  
+}
+
